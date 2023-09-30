@@ -9,21 +9,20 @@ function moveVideo(event) {
 document.addEventListener("mousemove", moveVideo);
 
 function redirectToCloudArchitectPage() {
-    window.location.href = "/primer.html";
+    window.location.href = "http://localhost/roadMap/roads/CloudArchitect.html";
   }
   
-
 function redirectToCloudEngineerPage() {
-    window.location.href = "";
+    window.location.href = "http://localhost/roadMap/roads/CloudEngineer.html";
   }
 
 function redirectToCloudAnalystPage() {
-    window.location.href = "";
+    window.location.href = "http://localhost/roadMap/roads/CloudAnalyst.html";
   }
 function redirectToCloudAdministratorPage() {
-    window.location.href = "";
+    window.location.href = "http://localhost/roadMap/roads/CloudAdministrator.html";
   }
 
 function redirectToCloudDeveloperPage() {
-    window.location.href = "";
+    window.location.href = "http://localhost/roadMap/roads/CloudDeveloper.html";
   }
